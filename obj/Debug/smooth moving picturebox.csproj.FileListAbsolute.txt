@@ -1,0 +1,31 @@
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\bin\Debug\smooth moving picturebox.exe.config
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\bin\Debug\smooth moving picturebox.exe
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\bin\Debug\smooth moving picturebox.pdb
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.AssemblyReference.cache
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth_moving_picturebox.Form1.resources
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth_moving_picturebox.Properties.Resources.resources
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.GenerateResource.cache
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.CoreCompileInputs.cache
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth moving picturebox.exe
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth moving picturebox.pdb
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\bin\Debug\Interop.WMPLib.dll
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\Interop.WMPLib.dll
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MONROYO\source\repos\smooth moving picturebox\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.ResolveComReference.cache
+C:\Users\Andrei\Downloads\smooth moving picturebox\bin\Debug\smooth moving picturebox.exe.config
+C:\Users\Andrei\Downloads\smooth moving picturebox\bin\Debug\smooth moving picturebox.exe
+C:\Users\Andrei\Downloads\smooth moving picturebox\bin\Debug\smooth moving picturebox.pdb
+C:\Users\Andrei\Downloads\smooth moving picturebox\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andrei\Downloads\smooth moving picturebox\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.AssemblyReference.cache
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.ResolveComReference.cache
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth_moving_picturebox.Form1.resources
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth_moving_picturebox.Properties.Resources.resources
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.GenerateResource.cache
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth moving picturebox.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth moving picturebox.exe
+C:\Users\Andrei\Downloads\smooth moving picturebox\obj\Debug\smooth moving picturebox.pdb
